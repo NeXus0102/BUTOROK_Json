@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace BUTOROK
 {
-    class Gyoker
+    public class Gyoker
     {
         public List<Targyak> targyak { get; set; }
     }
